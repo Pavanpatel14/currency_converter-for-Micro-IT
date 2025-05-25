@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Currency Converter (Offline)")
+st.title("Currency Converter ")
 
 # Hardcoded exchange rates relative to USD
 exchange_rates = {
