@@ -13,3 +13,6 @@ A simple currency converter web app built with Streamlit.
    ```
    streamlit run app.py
    ```
+
+   ## Screenshot
+    <img width="487" alt="Image" src="https://github.com/user-attachments/assets/bb107dec-6c7a-4fc7-a844-580453067189" />
